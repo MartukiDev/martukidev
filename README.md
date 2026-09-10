@@ -20,6 +20,8 @@ Currently finishing my degree — only 1 year left until graduation.
 
 Developing an NFC-based pet tracking application focused on fast identification and modern user experience.
 
+## patika.cl 
+
 ## 🍎 About Me
 
 - Apple user
