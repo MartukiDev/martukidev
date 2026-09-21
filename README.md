@@ -18,9 +18,8 @@ Currently finishing my degree — only 1 year left until graduation.
 
 ## 🛠 Currently Working On
 
-Developing an NFC-based pet tracking application focused on fast identification and modern user experience.
+Developing [Patika](https://patika.cl) — an NFC-based pet tracking application focused on fast identification and a modern user experience.
 
-## patika.cl 
 
 ## 🍎 About Me
 
